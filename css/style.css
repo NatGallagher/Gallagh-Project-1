@@ -9,3 +9,18 @@
     background-color: silver;
     color: white;
 }
+.back-grey {
+    background-color: #2f4f4f;
+    color: white;
+}
+.back-lighter {
+    background-color: #708090;
+    color: white;
+}
+p {
+    background-color: whitesmoke;
+}
+h3 {
+    background-color: #2a3439;
+    color: white;
+}
