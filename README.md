@@ -12,6 +12,12 @@ multi-colomn layout. Bootstrap's grid system with rows and columns of images on 
 Bootstrap's carousel(?)
 Validate html page
 
+# how to use
+- Home page to see what exactly is offered through the site
+- About page to see more about me and my background
+- Contact Us to ask about pricing or with questions
+- Music examples page where user can hear different arrangements
+
 # website project name
 - Gallagher Music
 
