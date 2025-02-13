@@ -23,10 +23,10 @@
     </header>
     <p></p>
     <div>
-        <form>
-            <label>* First Name:</label> <input type="text" placeholder="First Name required" required><br>
-            <label>* Last Name:</label> <input type="text"><br>
-            <label>* Email:</label> <input type="text" placeholder="Email required" required><br>
+        <form action="https://formspree.io/f/mrbearvp" method="post" >
+            <label>* First Name:</label> <input name="firstName" type="text" placeholder="First Name required" required><br>
+            <label>* Last Name:</label> <input name="lastName" type="text"><br>
+            <label>* Email:</label> <input name="email" type="text" placeholder="Email required" required><br>
             <label>Comments:</label><br>
             <textarea type="text" name="message" cols="30" rows="10" placeholder="Message" required></textarea><br>
             <button type="submit">Submit</button>
