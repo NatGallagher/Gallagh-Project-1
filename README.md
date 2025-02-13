@@ -37,6 +37,7 @@ Validate html page
 - https://natgallagher.github.io/Gallagh-Project-1/
 
 # future improvements
-- item 1
-- item 2
-- item 3
+- Include live videos of groups playing my music
+- More interactive opportunities (javascript)
+- background images 
+- show customer reveiws/ratings
